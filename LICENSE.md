@@ -1,5 +1,5 @@
-Copyright © 2016 BMJ Publishing Group Ltd
-Copyright © 2016 Adrien Dorsaz
+Copyright © 2016 BMJ Publishing Group Ltd  
+Copyright © 2016 Adrien Dorsaz  
 Copyright © 2015 Daniel Roesler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
