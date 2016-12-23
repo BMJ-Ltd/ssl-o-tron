@@ -32,8 +32,8 @@ A sample configuration file can be found in config/config.ini.
 This tests against Let's Encrypt's staging servers, and
 the certificates it outputs are invalid.
 
-You can leave `aws_access_key_id` and `aws_secret_access_key`
-blank if you're using [Boto's configured access keys](https://boto3.readthedocs.io/en/latest/guide/configuration.html).
+You can omit `aws_access_key_id` and `aws_secret_access_key`
+if you're using [Boto's configured access keys](https://boto3.readthedocs.io/en/latest/guide/configuration.html).
 
 `certificates.yaml` is the list of certificates and where
 you want them sent to.
