@@ -1,0 +1,18 @@
+---
+domains:
+  - example.com 
+  - www.example.com
+day: 1
+from: friend@example.com
+emails: otherfriend@example.org
+subject: Here's a renewed certificate!
+template: default.tmpl
+---
+domains:
+  - example.net
+  - www.example.net
+day: 1
+emails:
+  - friend@example.net
+subject: Here's the new certificate for example.net!
+template: default.tmpl

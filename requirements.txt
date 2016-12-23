@@ -1,0 +1,4 @@
+dnspython
+boto3
+pyyaml
+pyopenssl
